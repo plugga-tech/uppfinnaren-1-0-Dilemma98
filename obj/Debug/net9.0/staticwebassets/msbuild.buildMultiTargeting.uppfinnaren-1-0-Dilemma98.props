@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\uppfinnaren-1-0-Dilemma98.props" />
+</Project>
