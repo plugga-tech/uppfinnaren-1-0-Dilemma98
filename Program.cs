@@ -1,6 +1,8 @@
+using uppfinnaren_1_0_Dilemma98.Models;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.AddScoped<IProductRepository, MockProductRepository>();
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
@@ -27,3 +29,4 @@ app.MapControllerRoute(
 
 
 app.Run();
+
