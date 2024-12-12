@@ -28,12 +28,19 @@ li :hover{
 
 body{
   text-align: center;
+  background-color: rgb(255, 239, 219);
 }
 
-#productsHeader, #productHeader{
+.contentHeader, #productHeader, .content{
   margin-top: 3em;
+}
+
+#aboutMeTxt{
+  width: 40em;
+  margin: auto;
 }
 
 img{
   width: 20em;
+  border-radius: 2em;
 }
