@@ -3,14 +3,14 @@
     <StaticWebAssetEndpoint Include="_content/uppfinnaren-1-0-Dilemma98/css/site.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-VktPcaEdpjR\u002BE6tFy1H9i3MmACn3hl9gip0Gll2jTIg="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"301"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022VktPcaEdpjR\u002BE6tFy1H9i3MmACn3hl9gip0Gll2jTIg=\u0022"},{"Name":"Last-Modified","Value":"Thu, 12 Dec 2024 07:54:57 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-5JeOyt20ZWMtPmYgqzT\u002Bz6mLovuvWoDDK0m8Nb0ilH8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"455"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00225JeOyt20ZWMtPmYgqzT\u002Bz6mLovuvWoDDK0m8Nb0ilH8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 12 Dec 2024 09:40:24 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/uppfinnaren-1-0-Dilemma98/css/site.eqyi753oeq.css">
+    <StaticWebAssetEndpoint Include="_content/uppfinnaren-1-0-Dilemma98/css/site.gd0ow0eagi.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"eqyi753oeq"},{"Name":"integrity","Value":"sha256-VktPcaEdpjR\u002BE6tFy1H9i3MmACn3hl9gip0Gll2jTIg="},{"Name":"label","Value":"_content/uppfinnaren-1-0-Dilemma98/css/site.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"301"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022VktPcaEdpjR\u002BE6tFy1H9i3MmACn3hl9gip0Gll2jTIg=\u0022"},{"Name":"Last-Modified","Value":"Thu, 12 Dec 2024 07:54:57 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"gd0ow0eagi"},{"Name":"integrity","Value":"sha256-5JeOyt20ZWMtPmYgqzT\u002Bz6mLovuvWoDDK0m8Nb0ilH8="},{"Name":"label","Value":"_content/uppfinnaren-1-0-Dilemma98/css/site.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"455"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00225JeOyt20ZWMtPmYgqzT\u002Bz6mLovuvWoDDK0m8Nb0ilH8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 12 Dec 2024 09:40:24 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/uppfinnaren-1-0-Dilemma98/favicon.61n19gt1b8.ico">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</AssetFile>
@@ -24,50 +24,50 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Jtxf9L\u002B5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"5430"},{"Name":"Content-Type","Value":"image/x-icon"},{"Name":"ETag","Value":"\u0022Jtxf9L\u002B5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\u0022"},{"Name":"Last-Modified","Value":"Tue, 10 Dec 2024 08:32:25 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/uppfinnaren-1-0-Dilemma98/imgs/familyPuzzle.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imgs\familyPuzzle.jpg'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/uppfinnaren-1-0-Dilemma98/imgs/image_1.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imgs\image_1.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-MPrQXDM/Efn0yLvphRjqNP5Vq/2aU5o2IaHzEi/ZrB4="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"2283839"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022MPrQXDM/Efn0yLvphRjqNP5Vq/2aU5o2IaHzEi/ZrB4=\u0022"},{"Name":"Last-Modified","Value":"Wed, 11 Dec 2024 12:28:08 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/uppfinnaren-1-0-Dilemma98/imgs/familyPuzzle.om2mnqri2x.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imgs\familyPuzzle.jpg'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/uppfinnaren-1-0-Dilemma98/imgs/image_1.om2mnqri2x.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imgs\image_1.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"om2mnqri2x"},{"Name":"integrity","Value":"sha256-MPrQXDM/Efn0yLvphRjqNP5Vq/2aU5o2IaHzEi/ZrB4="},{"Name":"label","Value":"_content/uppfinnaren-1-0-Dilemma98/imgs/familyPuzzle.jpg"}]]]></EndpointProperties>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"om2mnqri2x"},{"Name":"integrity","Value":"sha256-MPrQXDM/Efn0yLvphRjqNP5Vq/2aU5o2IaHzEi/ZrB4="},{"Name":"label","Value":"_content/uppfinnaren-1-0-Dilemma98/imgs/image_1.jpg"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2283839"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022MPrQXDM/Efn0yLvphRjqNP5Vq/2aU5o2IaHzEi/ZrB4=\u0022"},{"Name":"Last-Modified","Value":"Wed, 11 Dec 2024 12:28:08 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/uppfinnaren-1-0-Dilemma98/imgs/kidsSet.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imgs\kidsSet.jpg'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/uppfinnaren-1-0-Dilemma98/imgs/image_2.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imgs\image_2.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-olEJYsxViOVCSAczNeKYKJVYFmJBR9kLStrjtMaxU\u002BM="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"860729"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022olEJYsxViOVCSAczNeKYKJVYFmJBR9kLStrjtMaxU\u002BM=\u0022"},{"Name":"Last-Modified","Value":"Wed, 11 Dec 2024 12:28:08 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/uppfinnaren-1-0-Dilemma98/imgs/kidsSet.qio604s12h.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imgs\kidsSet.jpg'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/uppfinnaren-1-0-Dilemma98/imgs/image_2.qio604s12h.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imgs\image_2.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"qio604s12h"},{"Name":"integrity","Value":"sha256-olEJYsxViOVCSAczNeKYKJVYFmJBR9kLStrjtMaxU\u002BM="},{"Name":"label","Value":"_content/uppfinnaren-1-0-Dilemma98/imgs/kidsSet.jpg"}]]]></EndpointProperties>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"qio604s12h"},{"Name":"integrity","Value":"sha256-olEJYsxViOVCSAczNeKYKJVYFmJBR9kLStrjtMaxU\u002BM="},{"Name":"label","Value":"_content/uppfinnaren-1-0-Dilemma98/imgs/image_2.jpg"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"860729"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022olEJYsxViOVCSAczNeKYKJVYFmJBR9kLStrjtMaxU\u002BM=\u0022"},{"Name":"Last-Modified","Value":"Wed, 11 Dec 2024 12:28:08 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/uppfinnaren-1-0-Dilemma98/imgs/kitchenLadles.d6osfm4hh3.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imgs\kitchenLadles.jpg'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/uppfinnaren-1-0-Dilemma98/imgs/image_3.d6osfm4hh3.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imgs\image_3.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"d6osfm4hh3"},{"Name":"integrity","Value":"sha256-ZXDq5G2u5zF63rPXcQzwjeExGZFcI0S3nNmugfyfzrA="},{"Name":"label","Value":"_content/uppfinnaren-1-0-Dilemma98/imgs/kitchenLadles.jpg"}]]]></EndpointProperties>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"d6osfm4hh3"},{"Name":"integrity","Value":"sha256-ZXDq5G2u5zF63rPXcQzwjeExGZFcI0S3nNmugfyfzrA="},{"Name":"label","Value":"_content/uppfinnaren-1-0-Dilemma98/imgs/image_3.jpg"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1523563"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ZXDq5G2u5zF63rPXcQzwjeExGZFcI0S3nNmugfyfzrA=\u0022"},{"Name":"Last-Modified","Value":"Wed, 11 Dec 2024 12:28:08 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/uppfinnaren-1-0-Dilemma98/imgs/kitchenLadles.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imgs\kitchenLadles.jpg'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/uppfinnaren-1-0-Dilemma98/imgs/image_3.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imgs\image_3.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ZXDq5G2u5zF63rPXcQzwjeExGZFcI0S3nNmugfyfzrA="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1523563"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ZXDq5G2u5zF63rPXcQzwjeExGZFcI0S3nNmugfyfzrA=\u0022"},{"Name":"Last-Modified","Value":"Wed, 11 Dec 2024 12:28:08 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/uppfinnaren-1-0-Dilemma98/imgs/woodCreature.c68d6x7pl0.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imgs\woodCreature.jpg'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/uppfinnaren-1-0-Dilemma98/imgs/image_4.c68d6x7pl0.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imgs\image_4.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"c68d6x7pl0"},{"Name":"integrity","Value":"sha256-pASVdaheet1NPNqoRqaiCpjfgr4QanVhLh2ZoCS0j\u002B4="},{"Name":"label","Value":"_content/uppfinnaren-1-0-Dilemma98/imgs/woodCreature.jpg"}]]]></EndpointProperties>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"c68d6x7pl0"},{"Name":"integrity","Value":"sha256-pASVdaheet1NPNqoRqaiCpjfgr4QanVhLh2ZoCS0j\u002B4="},{"Name":"label","Value":"_content/uppfinnaren-1-0-Dilemma98/imgs/image_4.jpg"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1046651"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022pASVdaheet1NPNqoRqaiCpjfgr4QanVhLh2ZoCS0j\u002B4=\u0022"},{"Name":"Last-Modified","Value":"Wed, 11 Dec 2024 12:28:08 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/uppfinnaren-1-0-Dilemma98/imgs/woodCreature.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imgs\woodCreature.jpg'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/uppfinnaren-1-0-Dilemma98/imgs/image_4.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imgs\image_4.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-pASVdaheet1NPNqoRqaiCpjfgr4QanVhLh2ZoCS0j\u002B4="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1046651"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022pASVdaheet1NPNqoRqaiCpjfgr4QanVhLh2ZoCS0j\u002B4=\u0022"},{"Name":"Last-Modified","Value":"Wed, 11 Dec 2024 12:28:08 GMT"}]]]></ResponseHeaders>

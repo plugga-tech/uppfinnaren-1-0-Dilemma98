@@ -1,11 +1,16 @@
+.companyName, nav ul{
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .companyName{
+  width: 20em;
   text-align: center;
   font-size: 3em;
 }
 
 nav ul{
-  width: 30em;
-  margin: auto;
+  width: 20em;
   display: flex;
   justify-content: space-between;
   list-style: none;
@@ -16,6 +21,19 @@ a, a :visited{
   text-decoration: none;
   color: black;
 }
+
 li :hover{
   font-weight: bold;
+}
+
+body{
+  text-align: center;
+}
+
+#productsHeader, #productHeader{
+  margin-top: 3em;
+}
+
+img{
+  width: 20em;
 }

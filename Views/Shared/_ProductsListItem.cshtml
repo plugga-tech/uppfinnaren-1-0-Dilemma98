@@ -1,0 +1,5 @@
+@model Product
+
+<div>
+    <a href="@Url.Action("Info", "Product", new { id = Model.ProductId })">@Model.Name</a>
+</div>
