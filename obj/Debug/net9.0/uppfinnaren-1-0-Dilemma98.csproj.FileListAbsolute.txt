@@ -36,4 +36,4 @@ C:\Users\emmaa\Webbutvecklare .NET\Dynamiska Webbsystem 1\Inlämningar\uppfinnar
 C:\Users\emmaa\Webbutvecklare .NET\Dynamiska Webbsystem 1\Inlämningar\uppfinnaren-1-0-Dilemma98\obj\Debug\net9.0\uppfinnaren-1-0-Dilemma98.pdb
 C:\Users\emmaa\Webbutvecklare .NET\Dynamiska Webbsystem 1\Inlämningar\uppfinnaren-1-0-Dilemma98\obj\Debug\net9.0\uppfinnaren-1-0-Dilemma98.genruntimeconfig.cache
 C:\Users\emmaa\Webbutvecklare .NET\Dynamiska Webbsystem 1\Inlämningar\uppfinnaren-1-0-Dilemma98\obj\Debug\net9.0\ref\uppfinnaren-1-0-Dilemma98.dll
-C:\Users\emmaa\Webbutvecklare .NET\Dynamiska Webbsystem 1\Inlämningar\uppfinnaren-1-0-Dilemma98\obj\Debug\net9.0\compressed\qvcm2xpwra-gd0ow0eagi.gz
+C:\Users\emmaa\Webbutvecklare .NET\Dynamiska Webbsystem 1\Inlämningar\uppfinnaren-1-0-Dilemma98\obj\Debug\net9.0\compressed\qvcm2xpwra-xu6j31crr3.gz
