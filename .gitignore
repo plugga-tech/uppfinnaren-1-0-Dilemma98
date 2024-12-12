@@ -12,6 +12,13 @@
 
 *.sln.docstates
 
+# Ignore generated AssemblyInfo.cs
+**/Properties/AssemblyInfo.cs
+
+# Ignore generated files (e.g., hashes, loggar)
+*.dll
+*.exe
+*.pdb
 
 
 
