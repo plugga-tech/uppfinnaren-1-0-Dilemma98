@@ -18,7 +18,6 @@ C:\Users\emmaa\Webbutvecklare .NET\Dynamiska Webbsystem 1\Inlämningar\uppfinnar
 C:\Users\emmaa\Webbutvecklare .NET\Dynamiska Webbsystem 1\Inlämningar\uppfinnaren-1-0-Dilemma98\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\emmaa\Webbutvecklare .NET\Dynamiska Webbsystem 1\Inlämningar\uppfinnaren-1-0-Dilemma98\obj\Debug\net9.0\scopedcss\bundle\uppfinnaren-1-0-Dilemma98.styles.css
 C:\Users\emmaa\Webbutvecklare .NET\Dynamiska Webbsystem 1\Inlämningar\uppfinnaren-1-0-Dilemma98\obj\Debug\net9.0\scopedcss\projectbundle\uppfinnaren-1-0-Dilemma98.bundle.scp.css
-C:\Users\emmaa\Webbutvecklare .NET\Dynamiska Webbsystem 1\Inlämningar\uppfinnaren-1-0-Dilemma98\obj\Debug\net9.0\compressed\qvcm2xpwra-eqyi753oeq.gz
 C:\Users\emmaa\Webbutvecklare .NET\Dynamiska Webbsystem 1\Inlämningar\uppfinnaren-1-0-Dilemma98\obj\Debug\net9.0\compressed\jgmdryuemw-61n19gt1b8.gz
 C:\Users\emmaa\Webbutvecklare .NET\Dynamiska Webbsystem 1\Inlämningar\uppfinnaren-1-0-Dilemma98\obj\Debug\net9.0\compressed\ng6t9v6bks-xtxxf3hu2r.gz
 C:\Users\emmaa\Webbutvecklare .NET\Dynamiska Webbsystem 1\Inlämningar\uppfinnaren-1-0-Dilemma98\obj\Debug\net9.0\compressed\q0ybun0dfw-wmopsqqd3e.gz
@@ -37,3 +36,4 @@ C:\Users\emmaa\Webbutvecklare .NET\Dynamiska Webbsystem 1\Inlämningar\uppfinnar
 C:\Users\emmaa\Webbutvecklare .NET\Dynamiska Webbsystem 1\Inlämningar\uppfinnaren-1-0-Dilemma98\obj\Debug\net9.0\uppfinnaren-1-0-Dilemma98.pdb
 C:\Users\emmaa\Webbutvecklare .NET\Dynamiska Webbsystem 1\Inlämningar\uppfinnaren-1-0-Dilemma98\obj\Debug\net9.0\uppfinnaren-1-0-Dilemma98.genruntimeconfig.cache
 C:\Users\emmaa\Webbutvecklare .NET\Dynamiska Webbsystem 1\Inlämningar\uppfinnaren-1-0-Dilemma98\obj\Debug\net9.0\ref\uppfinnaren-1-0-Dilemma98.dll
+C:\Users\emmaa\Webbutvecklare .NET\Dynamiska Webbsystem 1\Inlämningar\uppfinnaren-1-0-Dilemma98\obj\Debug\net9.0\compressed\qvcm2xpwra-gd0ow0eagi.gz
