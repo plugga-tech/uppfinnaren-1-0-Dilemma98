@@ -1,0 +1,10 @@
+@model IEnumerable<uppfinnaren_1_0_Dilemma98.Models.Product>
+
+<h1>@ViewBag.Message</h1>
+
+@foreach (var product in Model)
+{
+    <div>
+        <a href="/products/info/@product.ProductId">@product.Name</a>
+    </div>
+}

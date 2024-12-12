@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "uNyboaTzk3YimUma04q+IVLL+YayfovP/81sm1vrur0=",
+  "Hash": "9QtQMDG+9IC7FrwPtJ/ane7aJdW3VA6LSiwzRAvUHu4=",
   "Source": "uppfinnaren-1-0-Dilemma98",
   "BasePath": "_content/uppfinnaren-1-0-Dilemma98",
   "Mode": "Default",
@@ -101,12 +101,12 @@
       "OriginalItemSpec": "C:\\Users\\emmaa\\Webbutvecklare .NET\\Dynamiska Webbsystem 1\\Inlämningar\\uppfinnaren-1-0-Dilemma98\\obj\\Debug\\net9.0\\scopedcss\\bundle\\uppfinnaren-1-0-Dilemma98.styles.css"
     },
     {
-      "Identity": "C:\\Users\\emmaa\\Webbutvecklare .NET\\Dynamiska Webbsystem 1\\Inlämningar\\uppfinnaren-1-0-Dilemma98\\obj\\Debug\\net9.0\\compressed\\qvcm2xpwra-0fezsz0i9h.gz",
+      "Identity": "C:\\Users\\emmaa\\Webbutvecklare .NET\\Dynamiska Webbsystem 1\\Inlämningar\\uppfinnaren-1-0-Dilemma98\\obj\\Debug\\net9.0\\compressed\\qvcm2xpwra-eqyi753oeq.gz",
       "SourceId": "uppfinnaren-1-0-Dilemma98",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emmaa\\Webbutvecklare .NET\\Dynamiska Webbsystem 1\\Inlämningar\\uppfinnaren-1-0-Dilemma98\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/uppfinnaren-1-0-Dilemma98",
-      "RelativePath": "css/site#[.{fingerprint=0fezsz0i9h}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=eqyi753oeq}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -115,8 +115,8 @@
       "RelatedAsset": "C:\\Users\\emmaa\\Webbutvecklare .NET\\Dynamiska Webbsystem 1\\Inlämningar\\uppfinnaren-1-0-Dilemma98\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "uc4ijj5da5",
-      "Integrity": "cmpPrpiTvRnyx4o1V2VhWGh1ar0ZvuALUIqSTfviEm0=",
+      "Fingerprint": "zbcxs5bkru",
+      "Integrity": "rzxAcekeymFROjyGBDMkgbcaFadzX3Z6g4Q2YpLuPcQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\emmaa\\Webbutvecklare .NET\\Dynamiska Webbsystem 1\\Inlämningar\\uppfinnaren-1-0-Dilemma98\\wwwroot\\css\\site.css"
@@ -178,8 +178,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "0fezsz0i9h",
-      "Integrity": "REQnEy/z3MGjuyMYIkuHRgfK4cWWmsPObFMr1S5+PlA=",
+      "Fingerprint": "eqyi753oeq",
+      "Integrity": "VktPcaEdpjR+E6tFy1H9i3MmACn3hl9gip0Gll2jTIg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -334,13 +334,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.0fezsz0i9h.css",
-      "AssetFile": "C:\\Users\\emmaa\\Webbutvecklare .NET\\Dynamiska Webbsystem 1\\Inlämningar\\uppfinnaren-1-0-Dilemma98\\obj\\Debug\\net9.0\\compressed\\qvcm2xpwra-0fezsz0i9h.gz",
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Users\\emmaa\\Webbutvecklare .NET\\Dynamiska Webbsystem 1\\Inlämningar\\uppfinnaren-1-0-Dilemma98\\obj\\Debug\\net9.0\\compressed\\qvcm2xpwra-eqyi753oeq.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.012658227848"
+          "Quality": "0.004716981132"
         }
       ],
       "ResponseHeaders": [
@@ -350,19 +350,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "78"
+          "Value": "211"
         },
         {
           "Name": "ETag",
-          "Value": "\"cmpPrpiTvRnyx4o1V2VhWGh1ar0ZvuALUIqSTfviEm0=\""
+          "Value": "\"rzxAcekeymFROjyGBDMkgbcaFadzX3Z6g4Q2YpLuPcQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 12:28:08 GMT"
+          "Value": "Thu, 12 Dec 2024 07:54:57 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -378,26 +378,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"REQnEy/z3MGjuyMYIkuHRgfK4cWWmsPObFMr1S5+PlA=\""
+          "Value": "W/\"VktPcaEdpjR+E6tFy1H9i3MmACn3hl9gip0Gll2jTIg=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "0fezsz0i9h"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-REQnEy/z3MGjuyMYIkuHRgfK4cWWmsPObFMr1S5+PlA="
+          "Value": "sha256-VktPcaEdpjR+E6tFy1H9i3MmACn3hl9gip0Gll2jTIg="
         }
       ]
     },
     {
-      "Route": "css/site.0fezsz0i9h.css",
+      "Route": "css/site.css",
       "AssetFile": "C:\\Users\\emmaa\\Webbutvecklare .NET\\Dynamiska Webbsystem 1\\Inlämningar\\uppfinnaren-1-0-Dilemma98\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -407,7 +399,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "60"
+          "Value": "301"
         },
         {
           "Name": "Content-Type",
@@ -415,11 +407,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"REQnEy/z3MGjuyMYIkuHRgfK4cWWmsPObFMr1S5+PlA=\""
+          "Value": "\"VktPcaEdpjR+E6tFy1H9i3MmACn3hl9gip0Gll2jTIg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 12:28:08 GMT"
+          "Value": "Thu, 12 Dec 2024 07:54:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VktPcaEdpjR+E6tFy1H9i3MmACn3hl9gip0Gll2jTIg="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css.gz",
+      "AssetFile": "C:\\Users\\emmaa\\Webbutvecklare .NET\\Dynamiska Webbsystem 1\\Inlämningar\\uppfinnaren-1-0-Dilemma98\\obj\\Debug\\net9.0\\compressed\\qvcm2xpwra-eqyi753oeq.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "211"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rzxAcekeymFROjyGBDMkgbcaFadzX3Z6g4Q2YpLuPcQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 07:54:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rzxAcekeymFROjyGBDMkgbcaFadzX3Z6g4Q2YpLuPcQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.eqyi753oeq.css",
+      "AssetFile": "C:\\Users\\emmaa\\Webbutvecklare .NET\\Dynamiska Webbsystem 1\\Inlämningar\\uppfinnaren-1-0-Dilemma98\\obj\\Debug\\net9.0\\compressed\\qvcm2xpwra-eqyi753oeq.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004716981132"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "211"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rzxAcekeymFROjyGBDMkgbcaFadzX3Z6g4Q2YpLuPcQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 07:54:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"VktPcaEdpjR+E6tFy1H9i3MmACn3hl9gip0Gll2jTIg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eqyi753oeq"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VktPcaEdpjR+E6tFy1H9i3MmACn3hl9gip0Gll2jTIg="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.eqyi753oeq.css",
+      "AssetFile": "C:\\Users\\emmaa\\Webbutvecklare .NET\\Dynamiska Webbsystem 1\\Inlämningar\\uppfinnaren-1-0-Dilemma98\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "301"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VktPcaEdpjR+E6tFy1H9i3MmACn3hl9gip0Gll2jTIg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 07:54:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -429,7 +566,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "0fezsz0i9h"
+          "Value": "eqyi753oeq"
         },
         {
           "Name": "label",
@@ -437,13 +574,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-REQnEy/z3MGjuyMYIkuHRgfK4cWWmsPObFMr1S5+PlA="
+          "Value": "sha256-VktPcaEdpjR+E6tFy1H9i3MmACn3hl9gip0Gll2jTIg="
         }
       ]
     },
     {
-      "Route": "css/site.0fezsz0i9h.css.gz",
-      "AssetFile": "C:\\Users\\emmaa\\Webbutvecklare .NET\\Dynamiska Webbsystem 1\\Inlämningar\\uppfinnaren-1-0-Dilemma98\\obj\\Debug\\net9.0\\compressed\\qvcm2xpwra-0fezsz0i9h.gz",
+      "Route": "css/site.eqyi753oeq.css.gz",
+      "AssetFile": "C:\\Users\\emmaa\\Webbutvecklare .NET\\Dynamiska Webbsystem 1\\Inlämningar\\uppfinnaren-1-0-Dilemma98\\obj\\Debug\\net9.0\\compressed\\qvcm2xpwra-eqyi753oeq.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -452,7 +589,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "78"
+          "Value": "211"
         },
         {
           "Name": "Content-Type",
@@ -460,11 +597,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"cmpPrpiTvRnyx4o1V2VhWGh1ar0ZvuALUIqSTfviEm0=\""
+          "Value": "\"rzxAcekeymFROjyGBDMkgbcaFadzX3Z6g4Q2YpLuPcQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 12:28:08 GMT"
+          "Value": "Thu, 12 Dec 2024 07:54:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -482,7 +619,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "0fezsz0i9h"
+          "Value": "eqyi753oeq"
         },
         {
           "Name": "label",
@@ -490,144 +627,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-cmpPrpiTvRnyx4o1V2VhWGh1ar0ZvuALUIqSTfviEm0="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\emmaa\\Webbutvecklare .NET\\Dynamiska Webbsystem 1\\Inlämningar\\uppfinnaren-1-0-Dilemma98\\obj\\Debug\\net9.0\\compressed\\qvcm2xpwra-0fezsz0i9h.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.012658227848"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "78"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"cmpPrpiTvRnyx4o1V2VhWGh1ar0ZvuALUIqSTfviEm0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 12:28:08 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"REQnEy/z3MGjuyMYIkuHRgfK4cWWmsPObFMr1S5+PlA=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-REQnEy/z3MGjuyMYIkuHRgfK4cWWmsPObFMr1S5+PlA="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\emmaa\\Webbutvecklare .NET\\Dynamiska Webbsystem 1\\Inlämningar\\uppfinnaren-1-0-Dilemma98\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "60"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"REQnEy/z3MGjuyMYIkuHRgfK4cWWmsPObFMr1S5+PlA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 12:28:08 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-REQnEy/z3MGjuyMYIkuHRgfK4cWWmsPObFMr1S5+PlA="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css.gz",
-      "AssetFile": "C:\\Users\\emmaa\\Webbutvecklare .NET\\Dynamiska Webbsystem 1\\Inlämningar\\uppfinnaren-1-0-Dilemma98\\obj\\Debug\\net9.0\\compressed\\qvcm2xpwra-0fezsz0i9h.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "78"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"cmpPrpiTvRnyx4o1V2VhWGh1ar0ZvuALUIqSTfviEm0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 12:28:08 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-cmpPrpiTvRnyx4o1V2VhWGh1ar0ZvuALUIqSTfviEm0="
+          "Value": "sha256-rzxAcekeymFROjyGBDMkgbcaFadzX3Z6g4Q2YpLuPcQ="
         }
       ]
     },
@@ -1662,7 +1662,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 12:28:08 GMT"
+          "Value": "Thu, 12 Dec 2024 08:55:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1715,7 +1715,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 12:28:08 GMT"
+          "Value": "Thu, 12 Dec 2024 08:55:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1752,7 +1752,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 12:28:08 GMT"
+          "Value": "Thu, 12 Dec 2024 08:55:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1799,7 +1799,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 12:28:08 GMT"
+          "Value": "Thu, 12 Dec 2024 08:55:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1852,7 +1852,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 12:28:08 GMT"
+          "Value": "Thu, 12 Dec 2024 08:55:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1889,7 +1889,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 12:28:08 GMT"
+          "Value": "Thu, 12 Dec 2024 08:55:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1936,7 +1936,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 12:28:08 GMT"
+          "Value": "Thu, 12 Dec 2024 08:55:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1997,7 +1997,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 12:28:08 GMT"
+          "Value": "Thu, 12 Dec 2024 08:55:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2042,7 +2042,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 12:28:08 GMT"
+          "Value": "Thu, 12 Dec 2024 08:55:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2097,7 +2097,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 12:28:08 GMT"
+          "Value": "Thu, 12 Dec 2024 08:55:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2158,7 +2158,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 12:28:08 GMT"
+          "Value": "Thu, 12 Dec 2024 08:55:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2203,7 +2203,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 12:28:08 GMT"
+          "Value": "Thu, 12 Dec 2024 08:55:24 GMT"
         },
         {
           "Name": "Cache-Control",

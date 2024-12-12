@@ -1,8 +1,0 @@
-@model IEnumerable<Product>;
-
-<h1>Mina alster!</h1>
-
-@foreach(var product in Model)
-{
-    <div><a href="~/products/info/@product.ProductId">@product.Name</a></div>
-}

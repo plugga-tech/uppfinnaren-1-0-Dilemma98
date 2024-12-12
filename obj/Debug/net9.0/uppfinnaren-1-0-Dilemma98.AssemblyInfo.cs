@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("uppfinnaren-1-0-Dilemma98")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13b7379fc82031634dfbafbad6317b428eff8863")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9f81cbf7b63e9a50ee1b18d5dcd8ab14dee1ff1")]
 [assembly: System.Reflection.AssemblyProductAttribute("uppfinnaren-1-0-Dilemma98")]
 [assembly: System.Reflection.AssemblyTitleAttribute("uppfinnaren-1-0-Dilemma98")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
