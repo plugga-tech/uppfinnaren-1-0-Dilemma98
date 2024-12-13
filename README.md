@@ -1,5 +1,5 @@
 This assignment was about creating a page for a small business owner who sells his own craftsmanship.
-For starters, he wanted a pretty simple page, but the with possibility of it becoming more advanced.
+For starters, he wanted a pretty simple page, but with the possibility of it becoming more advanced.
 
 To use this program, make sure either Visual Studio Code or Visual Studio is already installed on your computer.
 1. In Github, click the green button that says " <> Code ", then under the page "Local" click the button that says " Donwload ZIP ".
