@@ -7,6 +7,11 @@
   width: 20em;
   text-align: center;
   font-size: 3em;
+  background-color:rgba(128, 128, 128, 0.205);
+  /* background-image: url(/imgs/workInProgress.jpg); */
+  padding: 1em;
+  border-radius: 1em;
+  font-family: 'Lafemme Vibe', sans-serif;                            
 }
 
 nav ul{
@@ -29,10 +34,20 @@ li :hover{
 body{
   text-align: center;
   background-color: rgb(255, 239, 219);
+  /* background-image: url(/imgs/bg.jpg); */
 }
 
 .contentHeader, #productHeader, .content{
   margin-top: 3em;
+}
+
+.productsList{
+  border: 1px solid black;
+  width: 15em;
+  margin: auto;
+  padding: 0.5em;
+  border-radius: 0.8em;
+  margin-top: 1em;
 }
 
 #aboutMeTxt{
@@ -43,4 +58,5 @@ body{
 img{
   width: 20em;
   border-radius: 2em;
+  margin-top: 3em;
 }
