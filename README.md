@@ -3,8 +3,8 @@ For starters, he wanted a pretty simple page, but with the possibility of it bec
 
 To use this program, make sure either Visual Studio Code or Visual Studio is already installed on your computer.
 1. In Github, click the green button that says " <> Code ", then under the page "Local" click the button that says " Donwload ZIP ".
-2. Extract the folder and right-click the folder. The press "Show more options" and then "Open with code"
-3. In VsCode, open the terminal and write "dotnet run".
+2. Extract the folder.
+3. Open the terminal and navigate to the extracted folder. Type "dotnet run"
 4. In one of the info: box you will see a http://locallhost adress. Hold CTRL and click that link
 
 
