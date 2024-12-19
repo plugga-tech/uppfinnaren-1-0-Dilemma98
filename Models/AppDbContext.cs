@@ -7,7 +7,7 @@ public class AppDbContext : DbContext
 {
     public AppDbContext(DbContextOptions<AppDbContext> options)
     {
-
+        this.Database.EnsureCreated();
     }
 
     public DbSet<Product> Products {get; set;} = null!;
