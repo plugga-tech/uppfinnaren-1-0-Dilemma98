@@ -1,0 +1,16 @@
+@{
+    @model IEnumerable<Category>
+
+}
+
+<h1 class="contentHeader">@ViewBag.Message</h1>
+
+<ul>
+    @foreach (Category category in Model)
+    {
+        <li>
+            <a href="product/@category.CategoryId">@category.Name</a>
+        </li>
+    }
+</ul>
+

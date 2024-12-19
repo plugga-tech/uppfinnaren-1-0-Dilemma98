@@ -6,20 +6,32 @@ namespace uppfinnaren_1_0_Dilemma98.Controllers;
 
 public class ProductController : Controller
 {
-    private readonly IProductRepository _productRepository;
-    public ProductController(IProductRepository productRepository)
+     private readonly AppDbContext _context;
+
+    public ProductController(AppDbContext context)
     {
-        _productRepository = productRepository;
-    }   
-    public IActionResult Index()
-    {
-        ViewBag.message="Mina alster!";
-        return View(_productRepository.AllProducts);
+        _context = context;
     }
 
-    public IActionResult Info(int id)
+    public IActionResult Index()
     {
-        var product = _productRepository.GetProductById(id);
-        return View(product);
+        var categories = _context.Categories.ToList();
+        return View(categories);
     }
+    // private readonly IProductRepository _productRepository;
+    // public ProductController(IProductRepository productRepository)
+    // {
+    //     _productRepository = productRepository;
+    // }   
+    // public IActionResult Index()
+    // {
+    //     ViewBag.message="Mina alster!";
+    //     return View(_productRepository.AllProducts);
+    // }
+
+    // public IActionResult Info(int id)
+    // {
+    //     var product = _productRepository.GetProductById(id);
+    //     return View(product);
+    // }
 }
