@@ -1,5 +1,5 @@
-@model Product
+@model Category
 
 <div class="productsList">
-    <a href="@Url.Action("Info", "Product", new { id = Model.ProductId })">@Model.Name</a>
+    <a href="@Url.Action("Category", "Category", new { id = Model.CategoryId })">@Model.Name</a>
 </div>
