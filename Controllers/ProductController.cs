@@ -18,20 +18,13 @@ public class ProductController : Controller
         var categories = _context.Categories.ToList();
         return View(categories);
     }
-    // private readonly IProductRepository _productRepository;
-    // public ProductController(IProductRepository productRepository)
-    // {
-    //     _productRepository = productRepository;
-    // }   
-    // public IActionResult Index()
-    // {
-    //     ViewBag.message="Mina alster!";
-    //     return View(_productRepository.AllProducts);
-    // }
 
-    // public IActionResult Info(int id)
-    // {
-    //     var product = _productRepository.GetProductById(id);
-    //     return View(product);
-    // }
+    public IActionResult Info(int id)
+    {
+        var filteredItems = _context.Products
+        .Where(p => p.CategoryId == id)
+        .ToList();
+
+        return View(filteredItems);
+    }
 }

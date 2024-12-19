@@ -1,16 +1,15 @@
 @{
     @model IEnumerable<Category>
-
 }
 
 <h1 class="contentHeader">@ViewBag.Message</h1>
 
-<ul>
+<div class="content">
     @foreach (Category category in Model)
     {
-        <li>
-            <a href="product/@category.CategoryId">@category.Name</a>
-        </li>
+        <button>
+            <a href="product/info/@category.CategoryId">@category.Name</a>
+        </button>
     }
-</ul>
+</div>
 
