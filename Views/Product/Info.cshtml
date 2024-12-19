@@ -1,7 +1,13 @@
-@model Product
-<h1 id="productHeader">@Model.Name</h1>
-<div>
-    <img src="~/imgs/image_@(Model.ProductId).jpg">
-    <p><b>@Model.Price</b>:-</p>
-    <p>@Model.Description</p>
+@model IEnumerable<Product>
+
+<div class="prodGallery">
+    @foreach (var item in Model)
+    {
+        <div class="eachProduct">
+            <h4>@item.Name</h4>
+            <img src="~/imgs/image_@(item.ProductId).jpg">
+            <p><b>@item.Price</b>:-</p>
+            <p>@item.Description</p>
+        </div>
+    }
 </div>

@@ -37,8 +37,14 @@ body{
   /* background-image: url(/imgs/bg.jpg); */
 }
 
-.contentHeader, #productHeader, .content{
-  margin-top: 3em;
+
+.content{
+  display: flex;
+  flex-direction: column;
+  width: 20%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2em;
 }
 
 .productsList{
@@ -56,7 +62,35 @@ body{
 }
 
 img{
-  width: 20em;
+  width: 10em;
   border-radius: 2em;
-  margin-top: 3em;
+}
+
+#homePageImage{
+  width: 20em;
+}
+
+.prodGallery{
+  margin-top: 5em;
+  width:80%;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  justify-content: space-around;
+}
+
+.eachProduct{
+  width: 10em;
+}
+
+button{
+  border: none;
+  padding: 1em;
+  background-color: rgb(204, 183, 157);
+  border-radius: 2em;
+  margin: 0.5em;
+}
+
+button:hover{
+  background-color: rgb(172, 147, 118);
 }

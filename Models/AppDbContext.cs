@@ -42,10 +42,10 @@ public class AppDbContext : DbContext
             new Product { ProductId = 14, CategoryId = 4, Name = "Stolar med retro", Price = 2500, Description = "Ett set om 4st stolar." },
             new Product { ProductId = 15, CategoryId = 4, Name = "Stolar med stil", Price = 2500, Description = "Ett set om 4st stolar." },
             new Product { ProductId = 16, CategoryId = 4, Name = "Stolar med mjukt", Price = 2500, Description = "Ett set om 4st stolar." },
-            new Product { ProductId = 17, CategoryId = 5, Name = "Kaffebord", Price = 500, Description = "Ett set om 4st stolar." },
-            new Product { ProductId = 18, CategoryId = 5, Name = "Simpla bord", Price = 1000, Description = "Ett set om 4st stolar." },
-            new Product { ProductId = 19, CategoryId = 5, Name = "Runda bord", Price = 500, Description = "Ett set om 4st stolar." },
-            new Product { ProductId = 20, CategoryId = 5, Name = "Fyrkantigt bord", Price = 1500, Description = "Ett set om 4st stolar." }
+            new Product { ProductId = 17, CategoryId = 5, Name = "Kaffebord", Price = 500, Description = "Ett enkelt kaffebord." },
+            new Product { ProductId = 18, CategoryId = 5, Name = "Simpla bord", Price = 1000, Description = "Ett simpelt bord." },
+            new Product { ProductId = 19, CategoryId = 5, Name = "Runda bord", Price = 500, Description = "Ett runt bord." },
+            new Product { ProductId = 20, CategoryId = 5, Name = "Fyrkantiga bord", Price = 1500, Description = "Ett fyrkantigt bord." }
         );
     }
 }
