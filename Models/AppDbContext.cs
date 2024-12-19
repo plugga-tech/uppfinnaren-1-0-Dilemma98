@@ -20,7 +20,7 @@ public class AppDbContext : DbContext
         modelBuilder.Entity<Category>().HasData(
            new Category { CategoryId = 1, Name = "Köksredskap" },
            new Category { CategoryId = 2, Name = "Leksaker" },
-           new Category { CategoryId = 3, Name = "Skulpturer" },
+           new Category { CategoryId = 3, Name = "Inredning" },
            new Category { CategoryId = 4, Name = "Stolar" },
            new Category { CategoryId = 5, Name = "Bord" }
        );
@@ -35,9 +35,9 @@ public class AppDbContext : DbContext
             new Product { ProductId = 7, CategoryId = 2, Name = "Räknetåg", Price = 550, Description = "Ett räknetåg för den lille att lära sig räkna." },
             new Product { ProductId = 8, CategoryId = 2, Name = "Byggklossar", Price = 250, Description = "Byggklossar för den lilla att bygga med." },
             new Product { ProductId = 9, CategoryId = 3, Name = "Skogsvarelser", Price = 150, Description = "Två söta skogsvarelser." },
-            new Product { ProductId = 10, CategoryId = 3, Name = "Räknetåg", Price = 550, Description = "Ett räknetåg för den lille att lära sig räkna." },
-            new Product { ProductId = 11, CategoryId = 3, Name = "Byggklossar", Price = 250, Description = "Byggklossar för den lilla att bygga med." },
-            new Product { ProductId = 12, CategoryId = 3, Name = "Räknetåg", Price = 550, Description = "Ett räknetåg för den lille att lära sig räkna." },
+            new Product { ProductId = 10, CategoryId = 3, Name = "Vaser", Price = 550, Description = "Vaser i olika former" },
+            new Product { ProductId = 11, CategoryId = 3, Name = "Träd", Price = 250, Description = "Ett fint träd för dekoration" },
+            new Product { ProductId = 12, CategoryId = 3, Name = "Skål", Price = 550, Description = "En fin skål för dekoration" },
             new Product { ProductId = 13, CategoryId = 4, Name = "Stolar med känsla", Price = 2500, Description = "Ett set om 4st stolar." },
             new Product { ProductId = 14, CategoryId = 4, Name = "Stolar med retro", Price = 2500, Description = "Ett set om 4st stolar." },
             new Product { ProductId = 15, CategoryId = 4, Name = "Stolar med stil", Price = 2500, Description = "Ett set om 4st stolar." },
