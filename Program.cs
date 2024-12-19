@@ -1,9 +1,14 @@
+using Microsoft.EntityFrameworkCore;
 using uppfinnaren_1_0_Dilemma98.Models;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddScoped<IProductRepository, MockProductRepository>();
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddDbContext<AppDbContext>( options =>
+    options.UseInMemoryDatabase("uppfinnaren")
+);
 
 var app = builder.Build();
 
