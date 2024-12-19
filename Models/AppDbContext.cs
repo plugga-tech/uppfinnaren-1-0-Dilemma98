@@ -5,17 +5,25 @@ namespace uppfinnaren_1_0_Dilemma98.Models;
 
 public class AppDbContext : DbContext
 {
-    public AppDbContext(DbContextOptions<AppDbContext> options)
+    public AppDbContext(DbContextOptions<AppDbContext> options) : base(options)
     {
         this.Database.EnsureCreated();
     }
 
-    public DbSet<Product> Products {get; set;} = null!;
-    public DbSet<Category> Categories {get; set;} = null!;
+    public DbSet<Product> Products { get; set; } = null!;
+    public DbSet<Category> Categories { get; set; } = null!;
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         base.OnModelCreating(modelBuilder);
+
+        modelBuilder.Entity<Category>().HasData(
+           new Category { CategoryId = 1, Name = "Köksredskap" },
+           new Category { CategoryId = 2, Name = "Leksaker" },
+           new Category { CategoryId = 3, Name = "Skulpturer" },
+           new Category { CategoryId = 4, Name = "Stolar" },
+           new Category { CategoryId = 5, Name = "Bord" }
+       );
 
         modelBuilder.Entity<Product>().HasData(
             new Product { ProductId = 1, CategoryId = 1, Name = "Köksslevar", Price = 200, Description = "Paket med tre slevar i olika storlekar." },
@@ -30,22 +38,14 @@ public class AppDbContext : DbContext
             new Product { ProductId = 10, CategoryId = 3, Name = "Räknetåg", Price = 550, Description = "Ett räknetåg för den lille att lära sig räkna." },
             new Product { ProductId = 11, CategoryId = 3, Name = "Byggklossar", Price = 250, Description = "Byggklossar för den lilla att bygga med." },
             new Product { ProductId = 12, CategoryId = 3, Name = "Räknetåg", Price = 550, Description = "Ett räknetåg för den lille att lära sig räkna." },
-            new Product { ProductId = 13, CategoryId = 4, Name = "Stolar med känsla", Price = 2500, Description = "Ett set om 4st stolar."},
-            new Product { ProductId = 14, CategoryId = 4, Name = "Stolar med retro", Price = 2500, Description = "Ett set om 4st stolar."},
-            new Product { ProductId = 15, CategoryId = 4, Name = "Stolar med stil", Price = 2500, Description = "Ett set om 4st stolar."},
-            new Product { ProductId = 16, CategoryId = 4, Name = "Stolar med mjukt", Price = 2500, Description = "Ett set om 4st stolar."},
-            new Product { ProductId = 17, CategoryId = 5, Name = "Kaffebord", Price = 500, Description = "Ett set om 4st stolar."},
-            new Product { ProductId = 18, CategoryId = 5, Name = "Simpla bord", Price = 1000, Description = "Ett set om 4st stolar."},
-            new Product { ProductId = 19, CategoryId = 5, Name = "Runda bord", Price = 500, Description = "Ett set om 4st stolar."},
-            new Product { ProductId = 20, CategoryId = 5, Name = "Fyrkantigt bord", Price =1500, Description = "Ett set om 4st stolar."}
-        );
-
-        modelBuilder.Entity<Category>().HasData(
-            new Category { CategoryId = 1, Name = "Köksredskap"},
-            new Category { CategoryId = 2, Name = "Leksaker"},
-            new Category { CategoryId = 3, Name = "Skulpturer"},
-            new Category { CategoryId = 4, Name = "Stolar"},
-            new Category { CategoryId = 5, Name = "Bord"}
+            new Product { ProductId = 13, CategoryId = 4, Name = "Stolar med känsla", Price = 2500, Description = "Ett set om 4st stolar." },
+            new Product { ProductId = 14, CategoryId = 4, Name = "Stolar med retro", Price = 2500, Description = "Ett set om 4st stolar." },
+            new Product { ProductId = 15, CategoryId = 4, Name = "Stolar med stil", Price = 2500, Description = "Ett set om 4st stolar." },
+            new Product { ProductId = 16, CategoryId = 4, Name = "Stolar med mjukt", Price = 2500, Description = "Ett set om 4st stolar." },
+            new Product { ProductId = 17, CategoryId = 5, Name = "Kaffebord", Price = 500, Description = "Ett set om 4st stolar." },
+            new Product { ProductId = 18, CategoryId = 5, Name = "Simpla bord", Price = 1000, Description = "Ett set om 4st stolar." },
+            new Product { ProductId = 19, CategoryId = 5, Name = "Runda bord", Price = 500, Description = "Ett set om 4st stolar." },
+            new Product { ProductId = 20, CategoryId = 5, Name = "Fyrkantigt bord", Price = 1500, Description = "Ett set om 4st stolar." }
         );
     }
 }
